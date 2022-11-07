@@ -1,9 +1,5 @@
-{
-<<<<<<< HEAD
-  
+{  
   "name": "newsapp",
-=======
->>>>>>> 04ffcae20c16f3df7b261017a0be0b5e82e2600d
   "version": "0.1.0",
   "private": true,
   "dependencies": {
