@@ -1,14 +1,12 @@
 import React from 'react'
-import { useEffect,useState } from 'react'
 import NewsItem from './NewsItem'
-import PropTypes from 'prop-types'
-import business from '/Web Developement/newsapp/src/business.json'
-import entertainment from '/Web Developement/newsapp/src/entertainment.json'
-import health from '/Web Developement/newsapp/src/health.json'
-import science from '/Web Developement/newsapp/src/science.json'
-import sports from '/Web Developement/newsapp/src/sports.json'
-import technology from '/Web Developement/newsapp/src/technology.json'
-import general from '/Web Developement/newsapp/src/general.json'
+import business from './Data/business.json'
+import entertainment from './Data/entertainment.json'
+import health from './Data/health.json'
+import science from './Data/science.json'
+import sports from './Data/sports.json'
+import technology from './Data/technology.json'
+import general from './Data/general.json'
 
 
 const News =(props)=> {
